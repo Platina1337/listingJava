@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175fb13d-6b4b-4a26-a96b-93db3bab535c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listingJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/BasketDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/DivisionByZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/ExtendsVehicleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/FactorialDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/IExampleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/NumberDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/ParaByRefDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/ParaByValueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/PolyVehicleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/ShapeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/StaticBlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/TenDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/Vehicle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/Vehicle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/VehicleAccessDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/VehicleConstrDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/VehicleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/VehicleGetSetMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list3/VehicleOverrideDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list6/DatePart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
