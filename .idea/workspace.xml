@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175fb13d-6b4b-4a26-a96b-93db3bab535c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/list6/DatePart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/Base64Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/SecureDivisionOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/ShowBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list5/sameDateToDirFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list7/DomPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list7/Grep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list7/GrepInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list7/InputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list7/SaxPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list7/Transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list7/ZipDirTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
