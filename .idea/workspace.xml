@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="175fb13d-6b4b-4a26-a96b-93db3bab535c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/BasketDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/DivisionByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/ExtendsVehicleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/FactorialDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/IExampleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/NumberDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/ParaByRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/ParaByValueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/PolyVehicleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/ShapeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/StaticBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/TenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/Vehicle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/Vehicle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/VehicleAccessDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/VehicleConstrDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/VehicleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/VehicleGetSetMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list3/VehicleOverrideDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lpp92Ie9bvFwOz8IfT10D7CxH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="175fb13d-6b4b-4a26-a96b-93db3bab535c" name="Changes" comment="" />
+      <created>1676577724135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676577724135</updated>
+    </task>
+    <servers />
+  </component>
+</project>
